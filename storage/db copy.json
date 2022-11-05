@@ -1,0 +1,21 @@
+{
+    "users":[
+       {
+          "user_id":"29PprotEOjVLqbl6caodoh9iT3w2",
+          "name":"Dexter Yandoc",
+          "followed":[
+             
+          ]
+       }
+    ],
+    "posts":[
+       {
+          "post_id": 1,
+          "user_id":"29PprotEOjVLqbl6caodoh9iT3w2",
+          "content":"Sample Post Content",
+          "image":"profile.png",
+          "likes": [],
+          "comments": []
+       }
+    ]
+ }
